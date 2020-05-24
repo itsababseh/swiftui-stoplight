@@ -1,2 +1,2 @@
-# swiftui-stoplight
+# SwiftUI-Stoplight
 made a simple stoplight with swiftui
